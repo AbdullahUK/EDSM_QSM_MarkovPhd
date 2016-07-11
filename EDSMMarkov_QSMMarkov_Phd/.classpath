@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib/modified_collections"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="src" path="lib/junit-statechum"/>
+	<classpathentry kind="lib" path="lib/colt.jar" sourcepath="/media/software/java/colt-1.2.0.zip"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung-1.7.6.jar" sourcepath="/media/software/java/jung-1.7.6-src.jar"/>
+	<classpathentry kind="lib" path="lib/sootclasses.jar"/>
+	<classpathentry kind="lib" path="lib/jltl2ba.jar"/>
+	<classpathentry kind="lib" path="lib/OtpErlang.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.8.1.jar" sourcepath="/media/software/java/junit-4.8.2-src.jar"/>
+	<classpathentry kind="lib" path="lib/javaGD.jar"/>
+	<classpathentry kind="lib" path="lib/JRI.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar" sourcepath="/media/software/java/weka-3-6-9/weka-src.jar"/>
+	<classpathentry kind="lib" path="lib/duzzt-annotations-0.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="lib/org.testng.jar"/>
+	<classpathentry kind="lib" path="lib/ST-4.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/trove-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/ap-commons-0.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/automata-util-0.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/automata-core-0.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/automata-incremental-0.4.0 (2).jar"/>
+	<classpathentry kind="lib" path="lib/automata-api-0.4.1 (1).jar"/>
+	<classpathentry kind="lib" path="lib/automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="lib/automata-commons-dotutil-0.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/automata-commons-util-0.4.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
