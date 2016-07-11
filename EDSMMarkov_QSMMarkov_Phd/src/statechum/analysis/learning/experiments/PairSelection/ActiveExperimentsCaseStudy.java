@@ -76,7 +76,7 @@ import statechum.analysis.learning.rpnicore.Transform.ConvertALabel;
 import statechum.model.testset.PTASequenceEngine.FilterPredicate;
 import statechum.collections.ArrayMapWithSearchPos;
 
-
+// Here is a file of active experiment for case study.
 public class ActiveExperimentsCaseStudy extends PairQualityLearner
 {
 	public static class LearnerRunner implements Callable<ThreadResult>
